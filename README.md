@@ -14,6 +14,12 @@
 
 ### [单例模式][singleton]
 
+## 结构型
+
+### [装饰模式][decorator]
+
+- [饮品调配][decorator/drink]
+
 ## 行为型
 
 ### [策略模式][strategy]
@@ -30,6 +36,13 @@
 [abstraction/database]: https://github.com/fengbaoheng/design-pattern/tree/master/src/main/java/factory/abstraction/database
 
 [singleton]: https://github.com/fengbaoheng/design-pattern/tree/master/src/main/java/singleton
+
+
+
+[decorator]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator
+[decorator/drink]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/drink
+
+
 
 [strategy]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/strategy
 [strategy/cashier]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/strategy/cashier
