@@ -1,7 +1,7 @@
 # 装饰模式
 动态的给一个对象添加一些额外的职责，就增加功能来说，装饰模式比生成子类更加灵活。
 
-![uml](uml)
+![uml][uml]
 
 ## 角色
 
@@ -25,4 +25,4 @@
 - Java IO包
 
 
-[uml]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/uml/uml.svg
+[uml]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/uml/uml.png

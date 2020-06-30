@@ -7,7 +7,7 @@
 
 ## 设计
 
-![uml](uml)
+![uml][uml]
 
 ### 抽象构件
 Drink类：所有饮品的接口，其中定义抽象方法生产饮品
@@ -26,4 +26,4 @@ DrinkDecorator类
 - AddMilk：加牛奶
 
 
-[uml]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/drink/uml.svg
+[uml]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/drink/uml.png

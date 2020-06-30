@@ -17,7 +17,7 @@
 ## 结构型
 
 ### [装饰模式][decorator]
-
+![uml][decorator/uml]
 - [饮品调配][decorator/drink]
 
 ## 行为型
@@ -40,6 +40,7 @@
 
 
 [decorator]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator
+[decorator/uml]:  https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/uml/uml.png
 [decorator/drink]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/drink
 
 
