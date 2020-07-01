@@ -26,4 +26,4 @@
 
 
 
-[uml]: https://github.com/fengbaoheng/design-pattern/blob/master/decorator/src/main/java/uml/uml.png
+[uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/decorator/src/main/java/uml/uml.png

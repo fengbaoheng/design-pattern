@@ -27,4 +27,4 @@ DrinkDecorator类
 
 
 
-[uml]: https://github.com/fengbaoheng/design-pattern/blob/master/decorator/src/main/java/drink/uml.png
+[uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/decorator/src/main/java/drink/uml.png
