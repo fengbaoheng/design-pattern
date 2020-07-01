@@ -2,14 +2,14 @@
 
 ## 创建型
 
-### [简单工厂模式][simple]
-- [计算器][simple/calculator]
+### [简单工厂模式][simple-factory]
+- [计算器][simple-factory/calculator]
 
-### [工厂方法模式][method]
-- [日志记录器][method/logger]
+### [工厂方法模式][factory-method]
+- [日志记录器][factory-method/logger]
 
-### [抽象工厂模式][abstraction]
-- [切换数据库][abstraction/database]
+### [抽象工厂模式][abstract-factory]
+- [切换数据库][abstract-factory/database]
 
 
 ### [单例模式][singleton]
@@ -26,24 +26,24 @@
 - [收银台][strategy/cashier]
 
 
-[simple]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/factory/simple
-[simple/calculator]: https://github.com/fengbaoheng/design-pattern/tree/master/src/main/java/factory/simple/calculator
+[simple-factory]: https://github.com/fengbaoheng/design-pattern/blob/master/simple-factory
+[simple-factory/calculator]: https://github.com/fengbaoheng/design-pattern/blob/master/simple-factory/calculator
 
-[method]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/factory/method
-[method/logger]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/factory/method/logger
+[factory-method]: https://github.com/fengbaoheng/design-pattern/blob/master/factory-method
+[factory-method/logger]: https://github.com/fengbaoheng/design-pattern/blob/master/factory-method/logger
 
-[abstraction]: https://github.com/fengbaoheng/design-pattern/tree/master/src/main/java/factory/abstraction
-[abstraction/database]: https://github.com/fengbaoheng/design-pattern/tree/master/src/main/java/factory/abstraction/database
+[abstract-factory]: https://github.com/fengbaoheng/design-pattern/blob/master/abstract-factory
+[abstract-factory/database]: https://github.com/fengbaoheng/design-pattern/blob/master/abstract-factory/database
 
-[singleton]: https://github.com/fengbaoheng/design-pattern/tree/master/src/main/java/singleton
-
-
-
-[decorator]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator
-[decorator/uml]:  https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/uml/uml.png
-[decorator/drink]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/decorator/drink
+[singleton]: https://github.com/fengbaoheng/design-pattern/blob/master/singleton
 
 
 
-[strategy]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/strategy
-[strategy/cashier]: https://github.com/fengbaoheng/design-pattern/blob/master/src/main/java/strategy/cashier
+[decorator]: https://github.com/fengbaoheng/design-pattern/blob/master/decorator
+[decorator/uml]: https://github.com/fengbaoheng/design-pattern/blob/master/decorator/src/main/java/uml/uml.png
+[decorator/drink]: https://github.com/fengbaoheng/design-pattern/blob/master/decorator/src/main/java/drink
+
+
+
+[strategy]: https://github.com/fengbaoheng/design-pattern/blob/master/strategy
+[strategy/cashier]: https://github.com/fengbaoheng/design-pattern/blob/master/strategy/cashier
