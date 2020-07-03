@@ -11,6 +11,9 @@
 ### [抽象工厂模式][abstract-factory]
 - [切换数据库][abstract-factory/database]
 
+### [建造者模式][builder]
+![uml][builder/uml]
+- [电脑组装][builder/computer]
 
 ### [单例模式][singleton]
 
@@ -34,6 +37,12 @@
 
 [abstract-factory]: https://github.com/fengbaoheng/design-pattern/blob/master/abstract-factory
 [abstract-factory/database]: https://github.com/fengbaoheng/design-pattern/blob/master/abstract-factory/src/main/java/database
+
+[builder]: https://github.com/fengbaoheng/design-pattern/blob/master/builder
+[builder/uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/builder/src/main/java/uml/uml.png
+[builder/computer]: https://github.com/fengbaoheng/design-pattern/master/builder/src/main/java/computer
+
+
 
 [singleton]: https://github.com/fengbaoheng/design-pattern/blob/master/singleton
 
