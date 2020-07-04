@@ -15,6 +15,7 @@
         <module>factory-method</module>
         <module>abstract-factory</module>
         <module>builder</module>
+        <module>state</module>
     </modules>
     <packaging>pom</packaging>
 

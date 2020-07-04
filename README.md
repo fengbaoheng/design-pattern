@@ -28,6 +28,9 @@
 ### [策略模式][strategy]
 - [收银台][strategy/cashier]
 
+### [状态模式][state]
+![uml][state/uml]
+- [电梯][state/lift]
 
 [simple-factory]: https://github.com/fengbaoheng/design-pattern/blob/master/simple-factory
 [simple-factory/calculator]: https://github.com/fengbaoheng/design-pattern/tree/master/simple-factory/src/main/java/calculator
@@ -56,3 +59,7 @@
 
 [strategy]: https://github.com/fengbaoheng/design-pattern/blob/master/strategy
 [strategy/cashier]: https://github.com/fengbaoheng/design-pattern/blob/master/strategy/src/main/java/cashier
+
+[state]: https://github.com/fengbaoheng/design-pattern/blob/master/state
+[state/uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/state/src/main/java/uml/uml.png
+[state/lift]: https://github.com/fengbaoheng/design-pattern/blob/master/state/src/main/java/lift
