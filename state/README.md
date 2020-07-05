@@ -25,7 +25,9 @@
 - 违背开闭原则，添加新的状态后，还要修改旧的状态类的转换规则，使其能转换到的状态
 
 ## 应用
+
 - 游戏开发
 - 图形拖拽
 
 [uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/state/src/main/java/uml/uml.png
+

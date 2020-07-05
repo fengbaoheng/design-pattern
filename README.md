@@ -32,6 +32,10 @@
 ![uml][state/uml]
 - [电梯][state/lift]
 
+### [观察模式][observer]
+![uml][observer/uml]
+- [公众号订阅][observer/accounts]
+
 [simple-factory]: https://github.com/fengbaoheng/design-pattern/blob/master/simple-factory
 [simple-factory/calculator]: https://github.com/fengbaoheng/design-pattern/tree/master/simple-factory/src/main/java/calculator
 
@@ -63,3 +67,7 @@
 [state]: https://github.com/fengbaoheng/design-pattern/blob/master/state
 [state/uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/state/src/main/java/uml/uml.png
 [state/lift]: https://github.com/fengbaoheng/design-pattern/blob/master/state/src/main/java/lift
+
+[observer]: https://github.com/fengbaoheng/design-pattern/blob/master/observer
+[observer/uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/observer/src/main/java/uml/uml.png
+[observer/accounts]: https://github.com/fengbaoheng/design-pattern/blob/observer/state/src/main/java/accounts
