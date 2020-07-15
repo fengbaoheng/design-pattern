@@ -1,7 +1,7 @@
 # 建造者模式
 将复杂对象的表示和构建过程分离，使得同样的构建过程可以创建不同表示。
 
-![uml][uml]
+![uml](./src/main/java/uml/uml.png)
 
 ## 角色
 
@@ -25,6 +25,3 @@
 
 - StringBuilder
 - SqlSessionFactoryBuilder
-
-
-[uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/builder/src/main/java/uml/uml.png

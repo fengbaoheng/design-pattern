@@ -4,7 +4,7 @@
 
 主要用于对象状态转换过于复杂时，将逻辑判断转移到表示不同状态的类中，可以把复杂的判断逻辑简化
 
-![uml][uml]
+![uml](./src/main/java/uml/uml.png)
 
 ## 角色
 
@@ -28,6 +28,3 @@
 
 - 游戏开发
 - 图形拖拽
-
-[uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/state/src/main/java/uml/uml.png
-

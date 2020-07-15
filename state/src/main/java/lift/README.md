@@ -5,7 +5,7 @@
 - 执行非法操作时，什么都不执行。例如**运行状态**执行**开门**操作
 
 ## 设计
-![uml][uml]
+![uml](./uml.png)
 
 ### Lift 电梯
 用于客户端执行各项动作，内部包含状态变量，指向当前的状态
@@ -26,7 +26,3 @@
 ### StoppedState 停止状态
 - 开门->开门状态
 - 运行->运行状态
- 
-
-
-[uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/state/src/main/java/lift/uml.png

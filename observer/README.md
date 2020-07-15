@@ -7,7 +7,7 @@
 
 
 
-![uml][uml]
+![uml](./src/main/java/uml/uml.png)
 
 
 
@@ -37,12 +37,4 @@
 
 ## 应用
 
-
-
 - JDK内置了Observable和Observer类，用户可以直接继承使用，不需要自己再创建
-
-
-
-
-
-[uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/observer/src/main/java/uml/uml.png
