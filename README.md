@@ -70,4 +70,5 @@
 
 [observer]: https://github.com/fengbaoheng/design-pattern/blob/master/observer
 [observer/uml]: https://raw.githubusercontent.com/fengbaoheng/design-pattern/master/observer/src/main/java/uml/uml.png
-[observer/accounts]: https://github.com/fengbaoheng/design-pattern/blob/observer/state/src/main/java/accounts
+[observer/accounts]: https://github.com/fengbaoheng/design-pattern/tree/master/observer/src/main/java/accounts
+
