@@ -36,3 +36,6 @@
 ![uml](./observer/src/main/java/uml/uml.png)
 - [公众号订阅](./observer/src/main/java/accounts)
 - [EventBus](./observer/src/main/java/eventbus)
+
+### [模板方法模式](./template-method)
+![uml](./template-method/src/main/java/uml/uml.png)_
