@@ -18,6 +18,7 @@
         <module>state</module>
         <module>observer</module>
         <module>template-method</module>
+        <module>proxy</module>
     </modules>
     <packaging>pom</packaging>
 

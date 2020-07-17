@@ -23,6 +23,10 @@
 ![uml](./decorator/src/main/java/uml/uml.png)
 - [饮品调配](./decorator/src/main/java/drink)
 
+### [代理模式](./proxy)
+![uml](./proxy/src/main/java/uml/uml.png)
+- [动态代理](./proxy/src/main/java/dynamic)
+
 ## 行为型
 
 ### [策略模式](./strategy)
