@@ -27,6 +27,10 @@
 ![uml](./proxy/src/main/java/uml/uml.png)
 - [动态代理](./proxy/src/main/java/dynamic)
 
+### [桥接模式](./bridge)
+![uml](./bridge/src/main/java/uml/uml.png)
+- [跨平台图像浏览器](./bridge/src/main/java/image)
+
 ## 行为型
 
 ### [策略模式](./strategy)
