@@ -20,6 +20,7 @@
         <module>template-method</module>
         <module>proxy</module>
         <module>bridge</module>
+        <module>chain-of-responsibility</module>
     </modules>
     <packaging>pom</packaging>
 

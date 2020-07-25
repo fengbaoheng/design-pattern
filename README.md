@@ -46,4 +46,8 @@
 - [EventBus](./observer/src/main/java/eventbus)
 
 ### [模板方法模式](./template-method)
-![uml](./template-method/src/main/java/uml/uml.png)_
+![uml](./template-method/src/main/java/uml/uml.png)
+
+### [责任链模式](./chain-of-responsibility)
+![uml](./chain-of-responsibility/src/main/java/uml/uml.png)
+- [请假审批](./chain-of-responsibility/src/main/java/leave)
