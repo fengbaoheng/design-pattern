@@ -21,6 +21,7 @@
         <module>proxy</module>
         <module>bridge</module>
         <module>chain-of-responsibility</module>
+        <module>facade</module>
     </modules>
     <packaging>pom</packaging>
 

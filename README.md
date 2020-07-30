@@ -31,6 +31,10 @@
 ![uml](./bridge/src/main/java/uml/uml.png)
 - [跨平台图像浏览器](./bridge/src/main/java/image)
 
+### [门面模式](./facade)
+![uml](./facade/src/main/java/uml/uml.png)
+- [文件加解密系统](./facade/src/main/java/secrecy)
+
 ## 行为型
 
 ### [策略模式](./strategy)
