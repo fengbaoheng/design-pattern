@@ -22,6 +22,7 @@
         <module>bridge</module>
         <module>chain-of-responsibility</module>
         <module>facade</module>
+        <module>adaptor</module>
     </modules>
     <packaging>pom</packaging>
 

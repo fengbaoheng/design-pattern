@@ -35,6 +35,9 @@
 ![uml](./facade/src/main/java/uml/uml.png)
 - [文件加解密系统](./facade/src/main/java/secrecy)
 
+### [适配器模式](./adaptor)
+![uml](./adaptor/src/main/java/uml/uml.png)
+
 ## 行为型
 
 ### [策略模式](./strategy)
