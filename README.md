@@ -38,6 +38,10 @@
 ### [适配器模式](./adaptor)
 ![uml](./adaptor/src/main/java/uml/uml.png)
 
+### [组合模式](./composite)
+![uml](./composite/src/main/java/uml/uml.png)
+- [文件目录系统](./composite/src/main/java/file)
+
 ## 行为型
 
 ### [策略模式](./strategy)

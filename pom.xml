@@ -23,6 +23,7 @@
         <module>chain-of-responsibility</module>
         <module>facade</module>
         <module>adaptor</module>
+        <module>composite</module>
     </modules>
     <packaging>pom</packaging>
 
