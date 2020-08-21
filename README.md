@@ -12,7 +12,6 @@
 - [切换数据库](./abstract-factory/src/main/java/database)
 
 ### [建造者模式](./builder)
-![uml](./builder/src/main/java/uml/uml.png)
 - [电脑组装](./builder/src/main/java/computer)
 
 ### [单例模式](./singleton)
@@ -20,26 +19,20 @@
 ## 结构型
 
 ### [装饰模式](./decorator)
-![uml](./decorator/src/main/java/uml/uml.png)
 - [饮品调配](./decorator/src/main/java/drink)
 
 ### [代理模式](./proxy)
-![uml](./proxy/src/main/java/uml/uml.png)
 - [动态代理](./proxy/src/main/java/dynamic)
 
 ### [桥接模式](./bridge)
-![uml](./bridge/src/main/java/uml/uml.png)
 - [跨平台图像浏览器](./bridge/src/main/java/image)
 
 ### [门面模式](./facade)
-![uml](./facade/src/main/java/uml/uml.png)
 - [文件加解密系统](./facade/src/main/java/secrecy)
 
 ### [适配器模式](./adaptor)
-![uml](./adaptor/src/main/java/uml/uml.png)
 
 ### [组合模式](./composite)
-![uml](./composite/src/main/java/uml/uml.png)
 - [文件目录系统](./composite/src/main/java/file)
 
 ## 行为型
@@ -48,17 +41,16 @@
 - [收银台](./strategy/src/main/java/cashier)
 
 ### [状态模式](./state)
-![uml](./state/src/main/java/uml/uml.png)
 - [电梯](./state/src/main/java/lift)
 
 ### [观察模式](./observer)
-![uml](./observer/src/main/java/uml/uml.png)
 - [公众号订阅](./observer/src/main/java/accounts)
 - [EventBus](./observer/src/main/java/eventbus)
 
 ### [模板方法模式](./template-method)
-![uml](./template-method/src/main/java/uml/uml.png)
 
 ### [责任链模式](./chain-of-responsibility)
-![uml](./chain-of-responsibility/src/main/java/uml/uml.png)
 - [请假审批](./chain-of-responsibility/src/main/java/leave)
+
+### [命令模式](./command)
+- [按钮控件](./command/src/main/java/button)
