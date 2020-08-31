@@ -26,6 +26,7 @@
         <module>adaptor</module>
         <module>composite</module>
         <module>command</module>
+        <module>memento</module>
     </modules>
 
     <packaging>pom</packaging>
