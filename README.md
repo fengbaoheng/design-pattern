@@ -16,6 +16,12 @@
 
 ### [单例模式](./singleton)
 
+### [原型模式](./prototype)
+- [浅克隆](./prototype/src/main/java/clone/shallow)
+- [递归深克隆](./prototype/src/main/java/clone/deep/recursive)
+- [序列化深克隆](./prototype/src/main/java/clone/deep/serialize)
+
+
 ## 结构型
 
 ### [装饰模式](./decorator)

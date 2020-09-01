@@ -27,6 +27,7 @@
         <module>composite</module>
         <module>command</module>
         <module>memento</module>
+        <module>prototype</module>
     </modules>
 
     <packaging>pom</packaging>
