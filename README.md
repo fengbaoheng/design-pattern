@@ -63,3 +63,6 @@
 
 ### [备忘录模式](./memento)
 - [游戏存档](./memento/src/main/java/archive)
+
+### [访问者模式](./visitor)
+- [工资计算](./visitor/src/main/java/salary)
