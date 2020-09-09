@@ -41,6 +41,8 @@
 ### [组合模式](./composite)
 - [文件目录系统](./composite/src/main/java/file)
 
+### [享元模式](./flyweight)
+
 ## 行为型
 
 ### [策略模式](./strategy)
