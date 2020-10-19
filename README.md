@@ -50,6 +50,7 @@
 
 ### [状态模式](./state)
 - [电梯](./state/src/main/java/lift)
+- [信用卡](./state/src/main/java/creditcard)
 
 ### [观察模式](./observer)
 - [公众号订阅](./observer/src/main/java/accounts)
